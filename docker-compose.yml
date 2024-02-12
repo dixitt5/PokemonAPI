@@ -5,4 +5,4 @@ services:
       - 3306:3306
     environment:
       MARIADB_ROOT_PASSWORD: root
-      MARIADB_DATABASE: product
+      MARIADB_DATABASE: pokemon
